@@ -1,0 +1,7 @@
+C:\Users\Acer\source\FolderSyncApp1\FolderSyncApp1\bin\Release\FolderSyncApp1.exe.config
+C:\Users\Acer\source\FolderSyncApp1\FolderSyncApp1\bin\Release\FolderSyncApp1.exe
+C:\Users\Acer\source\FolderSyncApp1\FolderSyncApp1\bin\Release\FolderSyncApp1.pdb
+C:\Users\Acer\source\FolderSyncApp1\FolderSyncApp1\obj\Release\FolderSyncApp1.csproj.AssemblyReference.cache
+C:\Users\Acer\source\FolderSyncApp1\FolderSyncApp1\obj\Release\FolderSyncApp1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\FolderSyncApp1\FolderSyncApp1\obj\Release\FolderSyncApp1.exe
+C:\Users\Acer\source\FolderSyncApp1\FolderSyncApp1\obj\Release\FolderSyncApp1.pdb
